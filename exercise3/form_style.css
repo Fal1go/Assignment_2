@@ -37,6 +37,11 @@ label {
     font-weight: bold;
 }
 
+label.untouched {
+    font-weight: normal;
+    display: inline;
+}
+
 input[type="text"],
 input[type="email"],
 select
